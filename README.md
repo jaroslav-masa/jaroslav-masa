@@ -6,7 +6,7 @@
 
 ### Junior Level
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,materialui,redux,vite,bootstrap" /> <img src="https://skillicons.dev/icons?i=bash,firebase,mongo,postgres,regex,git,grafana,php,java,cs" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,materialui,redux,vite,bootstrap,bash,firebase" /> <img src="https://skillicons.dev/icons?i=mongo,postgres,regex,git,grafana,php,java,cs" />
 
 ### Hobby
 <img src="https://skillicons.dev/icons?i=blender,ai,ps,ae,pr,unity,vercel,idea" />
