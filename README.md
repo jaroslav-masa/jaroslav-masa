@@ -1,17 +1,15 @@
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,cs,py,java,php,bash,css,html,md,regex" />
+### Senior Level
+<img src="https://skillicons.dev/icons?i=html,css,vscode,ps,ai" />
 
-### Frameworks
+### Medior Level
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,next,tailwind,sass,md" />
 
-<img src="https://skillicons.dev/icons?i=react,next,vite,tailwindcss,bootstrap,nodejs,express,materialui,pytorch,redux,sass,tensoflow" />
+### Junior Level
 
-### Databases
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,materialui,redux,vite,bootstrap" /> <img src="https://skillicons.dev/icons?i=bash,firebase,mongo,postgres,regex,git,grafana,php,java,cs" />
 
-<img src="https://skillicons.dev/icons?i=firebase,mongo,postgres,mysql" />
-
-### Software
-
-<img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,blender,github,grafana,idea,unity,vercel,vscode" />
+### Hobby
+<img src="https://skillicons.dev/icons?i=blender,ai,ps,ae,pr,unity,vercel,idea" />
 
 <!-- 
 ---
